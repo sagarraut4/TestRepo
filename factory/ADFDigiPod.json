@@ -1,0 +1,9 @@
+{
+	"name": "ADFDigiPod",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "64765403-2d29-4680-8695-19e410f84d84",
+		"tenantId": "da47da7b-c2b5-495f-8801-a3b8ab78c674"
+	}
+}
